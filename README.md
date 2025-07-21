@@ -3,7 +3,10 @@ Blood Bank Management System
 
 🩸 Blood Bank Management System 🖥️🩺
 
-📋 Project Description
+![Blood Bank ](https://github.com/user-attachments/assets/9b19c12e-07f0-48b9-a051-7d5151b48943)
+
+
+📋 Project Description: 
 
 The Blood Bank Management System is a Flutter-based mobile application designed to streamline blood donation processes. Integrated with Firebase Firestore, it manages donor and recipient data, including blood group details and donation history, in real time. The app offers a user-friendly interface for registering donors, searching blood groups, and tracking donations. It leverages StreamBuilder for live data updates and includes a search feature to filter donors by blood group (e.g., A+, B-). Built with Dart, it ensures cross-platform compatibility for Android and iOS. The project prioritizes efficient data handling, secure authentication, and an intuitive UI, making it valuable for healthcare organizations and blood banks. Contributions are welcome via pull requests. 🚀
 
